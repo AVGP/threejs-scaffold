@@ -1,10 +1,5 @@
 var THREE = require('three'),
-    World = require('three-world'),
-    CSS3D = require('./css3d'),
-    Animation = require('./animation'),
-    OBJLoader = require('./objloader'),
-    OBJMTLLoader = require('./objmtlloader'),
-    WebcamTexture = require('./webcam-texture');
+    World = require('three-world');
 
 // Allow cross-origin texture loading
 THREE.ImageUtils.crossOrigin = '';
