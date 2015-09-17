@@ -15,7 +15,7 @@
     "watchify": "^2.2.1"
   },
   "dependencies": {
-    "three": "^0.70.0",
+    "three": "^0.71.0",
     "three-world": "^2.0.2"
   }
 }
